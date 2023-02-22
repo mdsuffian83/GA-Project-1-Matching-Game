@@ -10,6 +10,16 @@ const choiceOfColors = [
   'purple',
   'pink',
   'brown',
+  'cyan',
+  'fuchsia',
+  'gray',
+  'lawngreen',
+  'aquamarine',
+  'darkseagreen',
+  'khaki',
+  'lavenderblush',
+  'cornflowerblue',
+  'darkcyan',
 ]; // Const for the circle in the circle.
 let pickColorsList = [...choiceOfColors, ...choiceOfColors]; // Const to create duplicate colors list using spread operator.
 let circleCount = pickColorsList.length; // Const for how many circles in the game.
@@ -132,5 +142,3 @@ function buildCircle(colorInCircle) {
 
   return el;
 }
-
-// Make 6 by 6 circles..

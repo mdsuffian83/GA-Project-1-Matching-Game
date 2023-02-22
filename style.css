@@ -16,15 +16,15 @@ body {
   margin: 25px auto;
   width: max-content;
   display: grid;
-  grid-template-columns: repeat(4, 100px);
-  gap: 10px;
+  grid-template-columns: repeat(6, 70px);
+  gap: 5px;
   box-sizing: border-box;
 }
 
 .circle {
-  border-radius: 50px;
-  height: 80px;
-  width: 80px;
+  border-radius: 60px;
+  height: 60px;
+  width: 60px;
   background: white;
   border: 5px solid #444444;
   cursor: pointer;
