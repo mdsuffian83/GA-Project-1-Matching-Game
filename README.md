@@ -37,7 +37,7 @@ If the colors do not match, the circles will flip back over and the player will 
 
 The game is won when all circles have been matched.
 
-There is a cheat mode that can be activated by clicking the "Cheat Mode" button. This will display the color of all the circles on the screen.
+There is a Kids mode that can be activated by clicking the "Kids Mode" button. This will display the color of all the circles on the screen.
 
 ## 🏁 How to Run <a name = "How to Run"></a>
 
